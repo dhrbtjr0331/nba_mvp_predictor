@@ -1,0 +1,5 @@
+# For virtual environment activation:
+python3 -m venv kaggle_env
+source env/bin/activate (Do this everytime you want to activate)
+pip install kaggle 
+

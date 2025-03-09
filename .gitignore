@@ -1,0 +1,11 @@
+# Ignore system files
+__pycache__/
+*.pyc
+.DS_Store
+
+# Ignore data files
+data/raw/*
+data/processed/*
+
+# Ignore Jupyter Notebook checkpoints (if you use notebooks)
+.ipynb_checkpoints/
