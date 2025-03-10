@@ -1,4 +1,4 @@
-#!/Users/dhrbtjr331/Desktop/MLOps/Course1_CleanCodePrinciples/NBA_Winner_Projection/env/bin/python3.12
+#!/Users/dhrbtjr331/Desktop/MLOps/Course1_CleanCodePrinciples/NBA_MVP_Projection/env/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
