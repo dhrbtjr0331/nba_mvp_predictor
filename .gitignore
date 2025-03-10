@@ -9,3 +9,5 @@ data/processed/*
 
 # Ignore Jupyter Notebook checkpoints (if you use notebooks)
 .ipynb_checkpoints/
+
+saved_models/
