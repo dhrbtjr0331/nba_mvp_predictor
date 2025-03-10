@@ -11,4 +11,4 @@ data/processed/*
 .ipynb_checkpoints/
 
 # Ignore saved files of models
-saved_models/
+saved_models/nba_stat_predictor.pkl
